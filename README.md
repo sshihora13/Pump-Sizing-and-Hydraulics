@@ -266,7 +266,7 @@ Motor Power = BHP / Motor Efficiency
 
 **Satyambhai Shihora**
 Chemical Engineering Student — Otto von Guericke Universität Magdeburg
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/satyamshihora/) · [GitHub](https://github.com/sshihora13)
 
 ---
 
